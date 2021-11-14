@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-error",
+        "content": "There has been a checkout error"
+    },
+    {
+        "icon": "bx bx-package",
+        "content": "The shipment left 1 hour ago"
+    },
+    {
+        "icon": "bx bx-cart",
+        "content": "Cannot cart: Out of Stock"
+    },
+    {
+        "icon": "bx bx-error",
+        "content": "An error has occured"
+    },
+    {
+        "icon": "bx bx-cart",
+        "content": "The item has been carted. Need to checkout"
+    }
+]

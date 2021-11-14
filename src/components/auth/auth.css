@@ -1,0 +1,22 @@
+.auth-container{
+    display: flex;
+    width: 1920px;
+    height: 946px;
+
+}
+.auth-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #87CEEB;
+    flex: 1;
+    justify-content: center;
+}
+
+.img-p{
+    background-color: #ced6f2;
+    flex: 3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
